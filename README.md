@@ -67,5 +67,5 @@
 Для клонирования проекта из репозитория GitHub выполните команду:
 
 ```bash
-git clone https://github.com/OkashevaOlga/Project.git
+git clone https://github.com/Nek1t-GO/Web-resource-online-school.git
 ```
